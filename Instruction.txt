@@ -1,0 +1,11 @@
+To run the codes, you can directly run main.exe
+
+If main.exe cannot be runned, you can compile and run main.cpp
+
+main.cpp must be in the same folder with the following header files:-
+1) Function.h
+2) StrongConnectivity.h
+3) CycleDetection.h
+4) ShortestPath
+5) MST.h
+
